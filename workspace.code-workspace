@@ -1,0 +1,14 @@
+{
+    "folders": [
+		{
+			"path": "..\\..\\Desktop\\U\\2021-1 actual\\FRELANCER_INICIO"
+		},
+		{
+			"name": "Aerotecno",
+			"path": "..\\..\\..\\..\\xampp\\htdocs\\Aerotecno"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "FRELANCER_INICIO"
+    }
+}
